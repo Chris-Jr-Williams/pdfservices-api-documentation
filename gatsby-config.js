@@ -95,6 +95,10 @@ module.exports = {
           },
         ]
       },
+      {
+        title: "Rest APIs",
+        path: 'overview/rest-apis.md'
+      }
     ],
     subPages: [
       {
