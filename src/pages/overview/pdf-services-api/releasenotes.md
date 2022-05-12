@@ -19,7 +19,7 @@ repo as follows:
 2.  Select *Releases*.
 3.  Select and download the needed release.
 
-![image](../images/prevrelease.png)
+![Previous Release tags with release notes and links to the assets](../images/prevrelease.png)
 
 ## Migration Guide to PDF Services SDK
 
@@ -134,6 +134,11 @@ The new release is backward compatible with the previous release.
 Upgrading to the latest SDK should not break existing applications.
 
 ## Change history
+
+### 2.2.2 (May, 2022; patch release)
+| Change  | Language            | Description                                                                                   |
+| ------- | ------------------- | --------------------------------------------------------------------------------------------- |
+| Changed | Java, NodeJS               | Dependent library upgrades to address vulnerabilities reported in NPM and Maven.                                               |
 
 ### Create PDF Server Side Release (6 April, 2022; server side release)
 | Change  | Language            | Description                                                                                   |
